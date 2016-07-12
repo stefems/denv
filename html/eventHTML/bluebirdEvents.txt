@@ -1,0 +1,990 @@
+   <div class="event event-9538482" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-07" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-07T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Tue</span><span class="date-stamp-month-dd">Jun 7</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/tokyo-police-club-tickets-tokyo-police-club-denver-bluebird-theater-6-7-2016/event/9538482/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9538482" data-index="0" data-tracking="" title="Tokyo Police Club Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Tokyo Police Club Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">2 tickets left</div>
+         <div class="component-event-favorites-star event-9538482"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$20</div>
+         <div class="tickets-left">2 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9530871" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-09" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-09T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Thu</span><span class="date-stamp-month-dd">Jun 9</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/local-h-tickets-local-h-denver-bluebird-theater-6-9-2016/event/9530871/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9530871" data-index="1" data-tracking="" title="Local H Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Local H Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">17 tickets left</div>
+         <div class="component-event-favorites-star event-9530871"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$32</div>
+         <div class="tickets-left">17 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9499935" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-10" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-10T21:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Fri</span><span class="date-stamp-month-dd">Jun 10</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/dale-watson-tickets-dale-watson-denver-bluebird-theater-6-10-2016/event/9499935/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9499935" data-index="2" data-tracking="" title="Dale Watson Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Dale Watson Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">9:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">23 tickets left</div>
+         <div class="component-event-favorites-star event-9499935"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$28</div>
+         <div class="tickets-left">23 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9553005" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-11" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-11T21:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Sat</span><span class="date-stamp-month-dd">Jun 11</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/haley-reinhart-tickets-haley-reinhart-denver-bluebird-theater-6-11-2016/event/9553005/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9553005" data-index="3" data-tracking="" title="Haley Reinhart Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Haley Reinhart Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">9:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">20 tickets left</div>
+         <div class="component-event-favorites-star event-9553005"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$40</div>
+         <div class="tickets-left">20 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9589815" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-12" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-12T21:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Sun</span><span class="date-stamp-month-dd">Jun 12</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/russ-tickets-russ-denver-bluebird-theater-6-12-2016/event/9589815/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9589815" data-index="4" data-tracking="" title="Russ Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Russ Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">9:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">3 tickets left</div>
+         <div class="component-event-favorites-star event-9589815"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$60</div>
+         <div class="tickets-left">3 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9561722" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-13" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-13T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Mon</span><span class="date-stamp-month-dd">Jun 13</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/joywave-tickets-joywave-denver-bluebird-theater-6-13-2016/event/9561722/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9561722" data-index="5" data-tracking="" title="Joywave Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Joywave Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">13 tickets left</div>
+         <div class="component-event-favorites-star event-9561722"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$49</div>
+         <div class="tickets-left">13 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9580232" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-14" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-14T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Tue</span><span class="date-stamp-month-dd">Jun 14</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/joe-purdy-tickets-joe-purdy-denver-bluebird-theater-6-14-2016/event/9580232/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9580232" data-index="6" data-tracking="" title="Joe Purdy Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Joe Purdy Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">0 tickets left</div>
+         <div class="component-event-favorites-star event-9580232"></div>
+      </div>
+      <div class="event-price">
+         <div class="tickets-left">0 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9559848" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-16" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-16T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Thu</span><span class="date-stamp-month-dd">Jun 16</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/ben-nichols-tickets-ben-nichols-of-lucero-denver-bluebird-theater-6-16-2016/event/9559848/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9559848" data-index="7" data-tracking="" title="Ben Nichols of Lucero Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Ben Nichols of Lucero Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">27 tickets left</div>
+         <div class="component-event-favorites-star event-9559848"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$51</div>
+         <div class="tickets-left">27 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9585805" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-18" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-18T21:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Sat</span><span class="date-stamp-month-dd">Jun 18</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/dave-east-tickets-dave-east-denver-bluebird-theater-6-18-2016/event/9585805/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9585805" data-index="8" data-tracking="" title="Dave East  Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Dave East  Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">9:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">4 tickets left</div>
+         <div class="component-event-favorites-star event-9585805"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$36</div>
+         <div class="tickets-left">4 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9551474" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-20" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-20T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Mon</span><span class="date-stamp-month-dd">Jun 20</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/birdy-tickets-birdy-denver-bluebird-theater-6-20-2016/event/9551474/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9551474" data-index="9" data-tracking="" title="Birdy Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Birdy Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="component-event-favorites-star event-9551474"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$39</div>
+      </div>
+   </div>
+   <div class="event event-9549669" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-21" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-21T19:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Tue</span><span class="date-stamp-month-dd">Jun 21</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/andy-black-tickets-andy-black-denver-bluebird-theater-6-21-2016/event/9549669/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9549669" data-index="10" data-tracking="" title="Andy Black" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Andy Black</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">7:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="component-event-favorites-star event-9549669"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$51</div>
+      </div>
+   </div>
+   <div class="event event-9565960" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-24" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-24T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Fri</span><span class="date-stamp-month-dd">Jun 24</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/james-mcmurtry-tickets-james-mcmurtry-denver-bluebird-theater-6-24-2016/event/9565960/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9565960" data-index="11" data-tracking="" title="James McMurtry Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">James McMurtry Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">25 tickets left</div>
+         <div class="component-event-favorites-star event-9565960"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$56</div>
+         <div class="tickets-left">25 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9583979" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-28" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-28T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Tue</span><span class="date-stamp-month-dd">Jun 28</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/bad-cop-tickets-bad-cop-bad-cop-denver-bluebird-theater-6-28-2016/event/9583979/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9583979" data-index="12" data-tracking="" title="Bad Cop Bad Cop Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Bad Cop Bad Cop Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">4 tickets left</div>
+         <div class="component-event-favorites-star event-9583979"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$39</div>
+         <div class="tickets-left">4 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9581725" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-29" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-29T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Wed</span><span class="date-stamp-month-dd">Jun 29</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/peter-bjorn-and-john-tickets-peter-bjorn-and-john-denver-bluebird-theater-6-29-2016/event/9581725/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9581725" data-index="13" data-tracking="" title="Peter Bjorn and John Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Peter Bjorn and John Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">22 tickets left</div>
+         <div class="component-event-favorites-star event-9581725"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$37</div>
+         <div class="tickets-left">22 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9575975" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-06-30" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-06-30T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Thu</span><span class="date-stamp-month-dd">Jun 30</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/the-drunken-hearts-denver-bluebird-theater-6-30-2016/event/9575975/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9575975" data-index="14" data-tracking="" title="The Drunken Hearts Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">The Drunken Hearts Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">17 tickets left</div>
+         <div class="component-event-favorites-star event-9575975"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$39</div>
+         <div class="tickets-left">17 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9580233" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-07-01" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-07-01T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Fri</span><span class="date-stamp-month-dd">Jul 1</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/rubedo-tickets-rubedos-independence-day-ii-denver-bluebird-theater-7-1-2016/event/9580233/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9580233" data-index="15" data-tracking="" title="Rubedos Independence Day II Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Rubedos Independence Day II Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">4 tickets left</div>
+         <div class="component-event-favorites-star event-9580233"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$39</div>
+         <div class="tickets-left">4 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9573596" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-07-02" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-07-02T18:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Sat</span><span class="date-stamp-month-dd">Jul 2</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/tommy-freed-and-the-sound-tickets-tommy-freed-and-the-sound-denver-bluebird-theater-7-2-2016/event/9573596/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9573596" data-index="16" data-tracking="" title="Tommy Freed and The Sound" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Tommy Freed and The Sound</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">6:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">25 tickets left</div>
+         <div class="component-event-favorites-star event-9573596"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$35</div>
+         <div class="tickets-left">25 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9554036" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-07-08" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-07-08T21:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Fri</span><span class="date-stamp-month-dd">Jul 8</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/wye-oak-tickets-wye-oak-denver-bluebird-theater-7-8-2016/event/9554036/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9554036" data-index="17" data-tracking="" title="Wye Oak  Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Wye Oak  Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">9:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">39 tickets left</div>
+         <div class="component-event-favorites-star event-9554036"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$48</div>
+         <div class="tickets-left">39 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9507188" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-07-09" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-07-09T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Sat</span><span class="date-stamp-month-dd">Jul 9</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/dragged-into-sunlight-tickets-dragged-into-sunlight-denver-bluebird-theater-7-9-2016/event/9507188/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9507188" data-index="18" data-tracking="" title="Dragged Into Sunlight Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Dragged Into Sunlight Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">32 tickets left</div>
+         <div class="component-event-favorites-star event-9507188"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$39</div>
+         <div class="tickets-left">32 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9597562" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-07-16" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-07-16T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Sat</span><span class="date-stamp-month-dd">Jul 16</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/one-eyed-doll-tickets-one-eyed-doll-denver-bluebird-theater-7-16-2016/event/9597562/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9597562" data-index="19" data-tracking="" title="One Eyed Doll Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">One Eyed Doll Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">0 tickets left</div>
+         <div class="component-event-favorites-star event-9597562"></div>
+      </div>
+      <div class="event-price">
+         <div class="tickets-left">0 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9572095" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-07-19" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-07-19T21:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Tue</span><span class="date-stamp-month-dd">Jul 19</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/carcass-tickets-carcass-with-crowbar-and-more-denver-bluebird-theater-7-19-2016/event/9572095/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9572095" data-index="20" data-tracking="" title="Carcass with Crowbar and more Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Carcass with Crowbar and more Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">9:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">29 tickets left</div>
+         <div class="component-event-favorites-star event-9572095"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$60</div>
+         <div class="tickets-left">29 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9597563" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-07-21" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-07-21T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Thu</span><span class="date-stamp-month-dd">Jul 21</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/benjamin-clementine-tickets-benjamin-clementine-denver-bluebird-theater-7-21-2016/event/9597563/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9597563" data-index="21" data-tracking="" title="Benjamin Clementine Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Benjamin Clementine Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">0 tickets left</div>
+         <div class="component-event-favorites-star event-9597563"></div>
+      </div>
+      <div class="event-price">
+         <div class="tickets-left">0 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9581726" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-07-23" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-07-23T21:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Sat</span><span class="date-stamp-month-dd">Jul 23</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/protoje-tickets-protoje-denver-bluebird-theater-7-23-2016/event/9581726/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9581726" data-index="22" data-tracking="" title="Protoje Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Protoje Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">9:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">4 tickets left</div>
+         <div class="component-event-favorites-star event-9581726"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$49</div>
+         <div class="tickets-left">4 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9587907" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-07-26" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-07-26T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Tue</span><span class="date-stamp-month-dd">Jul 26</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/us-the-duo-tickets-us-the-duo-denver-bluebird-theater-7-26-2016/event/9587907/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9587907" data-index="23" data-tracking="" title="Us the Duo" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Us the Duo</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">4 tickets left</div>
+         <div class="component-event-favorites-star event-9587907"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$39</div>
+         <div class="tickets-left">4 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9559849" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-07-27" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-07-27T20:30:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Wed</span><span class="date-stamp-month-dd">Jul 27</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/joy-formidable-tickets-joy-formidable-denver-bluebird-theater-7-27-2016/event/9559849/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9559849" data-index="24" data-tracking="" title="Joy Formidable Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Joy Formidable Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:30 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">28 tickets left</div>
+         <div class="component-event-favorites-star event-9559849"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$60</div>
+         <div class="tickets-left">28 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9572093" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-07-29" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-07-29T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Fri</span><span class="date-stamp-month-dd">Jul 29</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/that-poppy-tickets-that-poppy-denver-bluebird-theater-7-29-2016/event/9572093/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9572093" data-index="25" data-tracking="" title="That Poppy" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">That Poppy</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">2 tickets left</div>
+         <div class="component-event-favorites-star event-9572093"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$50</div>
+         <div class="tickets-left">2 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9551469" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-07-30" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-07-30T21:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Sat</span><span class="date-stamp-month-dd">Jul 30</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/split-lip-rayfield-tickets-split-lip-rayfield-denver-bluebird-theater-7-30-2016/event/9551469/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9551469" data-index="26" data-tracking="" title="Split Lip Rayfield Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Split Lip Rayfield Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">9:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">32 tickets left</div>
+         <div class="component-event-favorites-star event-9551469"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$48</div>
+         <div class="tickets-left">32 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9530872" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-08-03" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-08-03T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Wed</span><span class="date-stamp-month-dd">Aug 3</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/hayes-carll-tickets-hayes-carll-denver-bluebird-theater-8-3-2016/event/9530872/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9530872" data-index="27" data-tracking="" title="Hayes Carll Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Hayes Carll Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">36 tickets left</div>
+         <div class="component-event-favorites-star event-9530872"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$53</div>
+         <div class="tickets-left">36 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9589816" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-08-11" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-08-11T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Thu</span><span class="date-stamp-month-dd">Aug 11</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/jamestown-revival-tickets-jamestown-revival-denver-bluebird-theater-8-11-2016/event/9589816/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9589816" data-index="28" data-tracking="" title="Jamestown Revival Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Jamestown Revival Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">2 tickets left</div>
+         <div class="component-event-favorites-star event-9589816"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$41</div>
+         <div class="tickets-left">2 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9589811" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-08-12" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-08-12T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Fri</span><span class="date-stamp-month-dd">Aug 12</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/the-midnight-club-tickets-the-midnight-club-tonight-we-rise-denver-bluebird-theater-8-12-2016/event/9589811/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9589811" data-index="29" data-tracking="" title="The Midnight Club/Tonight We Rise Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">The Midnight Club/Tonight We Rise Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">0 tickets left</div>
+         <div class="component-event-favorites-star event-9589811"></div>
+      </div>
+      <div class="event-price">
+         <div class="tickets-left">0 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9597565" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-08-14" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-08-14T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Sun</span><span class="date-stamp-month-dd">Aug 14</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/julien-baker-tickets-julien-baker-denver-bluebird-theater-8-14-2016/event/9597565/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9597565" data-index="30" data-tracking="" title="Julien Baker Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Julien Baker Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">0 tickets left</div>
+         <div class="component-event-favorites-star event-9597565"></div>
+      </div>
+      <div class="event-price">
+         <div class="tickets-left">0 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9533115" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-08-16" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-08-16T18:30:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Tue</span><span class="date-stamp-month-dd">Aug 16</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/digitour-tickets-digitour-spring-break-featuring-5quad--crawford-collins-and-more-denver-bluebird-theater-8-16-2016/event/9533115/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9533115" data-index="31" data-tracking="" title="DigiTour Spring Break featuring 5QUAD, Crawford Collins and more" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">DigiTour Spring Break featuring 5QUAD, Crawford Collins and more</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">6:30 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">38 tickets left</div>
+         <div class="component-event-favorites-star event-9533115"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$57</div>
+         <div class="tickets-left">38 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9573566" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-08-18" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-08-18T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Thu</span><span class="date-stamp-month-dd">Aug 18</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/william-clark-green-tickets-william-clark-green-and-johnathan-tyler-denver-bluebird-theater-8-18-2016/event/9573566/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9573566" data-index="32" data-tracking="" title="William Clark Green and Johnathan Tyler" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">William Clark Green and Johnathan Tyler</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">25 tickets left</div>
+         <div class="component-event-favorites-star event-9573566"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$52</div>
+         <div class="tickets-left">25 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9581727" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-08-19" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-08-19T21:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Fri</span><span class="date-stamp-month-dd">Aug 19</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/boris-band-tickets-boris-denver-bluebird-theater-8-19-2016/event/9581727/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9581727" data-index="33" data-tracking="" title="Boris Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Boris Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">9:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">6 tickets left</div>
+         <div class="component-event-favorites-star event-9581727"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$39</div>
+         <div class="tickets-left">6 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9568297" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-08-20" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-08-20T21:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Sat</span><span class="date-stamp-month-dd">Aug 20</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/throwing-shade-tickets-throwing-shade-denver-8-20-2016/event/9568297/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9568297" data-index="34" data-tracking="" title="Throwing Shade Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Throwing Shade Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">9:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">27 tickets left</div>
+         <div class="component-event-favorites-star event-9568297"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$49</div>
+         <div class="tickets-left">27 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9589817" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-09-01" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-09-01T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Thu</span><span class="date-stamp-month-dd">Sep 1</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/car-seat-headrest-tickets-car-seat-headrest-denver-bluebird-theater-9-1-2016/event/9589817/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9589817" data-index="35" data-tracking="" title="Car Seat Headrest  Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Car Seat Headrest  Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">16 tickets left</div>
+         <div class="component-event-favorites-star event-9589817"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$37</div>
+         <div class="tickets-left">16 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9597566" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-09-09" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-09-09T21:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Fri</span><span class="date-stamp-month-dd">Sep 9</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/slim-cessnas-auto-club-tickets-slim-cessna-s-auto-club-denver-bluebird-theater-9-9-2016/event/9597566/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9597566" data-index="36" data-tracking="" title="Slim Cessna's Auto Club Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Slim Cessna's Auto Club Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">9:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">0 tickets left</div>
+         <div class="component-event-favorites-star event-9597566"></div>
+      </div>
+      <div class="event-price">
+         <div class="tickets-left">0 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9587908" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-09-14" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-09-14T18:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Wed</span><span class="date-stamp-month-dd">Sep 14</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/chris-anthony-tickets-chris-anthony-youth-initiative-project-presents--inspire4-denver-bluebird-theater-9-14-2016/event/9587908/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9587908" data-index="37" data-tracking="" title="Chris Anthony Youth Initiative Project Presents: Inspire4" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Chris Anthony Youth Initiative Project Presents: Inspire4</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">6:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">0 tickets left</div>
+         <div class="component-event-favorites-star event-9587908"></div>
+      </div>
+      <div class="event-price">
+         <div class="tickets-left">0 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9597567" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-09-23" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-09-23T21:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Fri</span><span class="date-stamp-month-dd">Sep 23</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/junior-boys-tickets-junior-boys-denver-bluebird-theater-9-23-2016/event/9597567/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9597567" data-index="38" data-tracking="" title="Junior Boys Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Junior Boys Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">9:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">0 tickets left</div>
+         <div class="component-event-favorites-star event-9597567"></div>
+      </div>
+      <div class="event-price">
+         <div class="tickets-left">0 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9580234" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-10-03" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-10-03T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Mon</span><span class="date-stamp-month-dd">Oct 3</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/foy-vance-tickets-foy-vance-denver-bluebird-theater-10-3-2016/event/9580234/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9580234" data-index="39" data-tracking="" title="Foy Vance Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Foy Vance Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">2 tickets left</div>
+         <div class="component-event-favorites-star event-9580234"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$49</div>
+         <div class="tickets-left">2 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9597571" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-10-04" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-10-04T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Tue</span><span class="date-stamp-month-dd">Oct 4</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/dinosaur-jr-tickets-dinosaur-jr--denver-bluebird-theater-10-4-2016/event/9597571/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9597571" data-index="40" data-tracking="" title="Dinosaur Jr. Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Dinosaur Jr. Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">0 tickets left</div>
+         <div class="component-event-favorites-star event-9597571"></div>
+      </div>
+      <div class="event-price">
+         <div class="tickets-left">0 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9597570" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-10-05" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-10-05T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Wed</span><span class="date-stamp-month-dd">Oct 5</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/dinosaur-jr-tickets-dinosaur-jr--denver-bluebird-theater-10-5-2016/event/9597570/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9597570" data-index="41" data-tracking="" title="Dinosaur Jr. Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Dinosaur Jr. Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">0 tickets left</div>
+         <div class="component-event-favorites-star event-9597570"></div>
+      </div>
+      <div class="event-price">
+         <div class="tickets-left">0 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9585807" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-10-06" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-10-06T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Thu</span><span class="date-stamp-month-dd">Oct 6</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/matt-wertz-tickets-matt-wertz-denver-bluebird-theater-10-6-2016/event/9585807/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9585807" data-index="42" data-tracking="" title="Matt Wertz" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Matt Wertz</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">2 tickets left</div>
+         <div class="component-event-favorites-star event-9585807"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$68</div>
+         <div class="tickets-left">2 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9597568" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-10-09" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-10-09T21:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Sun</span><span class="date-stamp-month-dd">Oct 9</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/consider-the-source-tickets-consider-the-source-denver-bluebird-theater-10-9-2016/event/9597568/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9597568" data-index="43" data-tracking="" title="Consider the Source Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Consider the Source Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">9:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">6 tickets left</div>
+         <div class="component-event-favorites-star event-9597568"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$98</div>
+         <div class="tickets-left">6 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9589812" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-10-11" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-10-11T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Tue</span><span class="date-stamp-month-dd">Oct 11</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/okkervil-river-tickets-okkervil-river-denver-bluebird-theater-10-11-2016/event/9589812/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9589812" data-index="44" data-tracking="" title="Okkervil River" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Okkervil River</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">2 tickets left</div>
+         <div class="component-event-favorites-star event-9589812"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$45</div>
+         <div class="tickets-left">2 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9589814" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-10-18" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-10-18T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Tue</span><span class="date-stamp-month-dd">Oct 18</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/vnv-nation-tickets-vnv-nation-denver-bluebird-theater-10-18-2016/event/9589814/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9589814" data-index="45" data-tracking="" title="VNV Nation" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">VNV Nation</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">0 tickets left</div>
+         <div class="component-event-favorites-star event-9589814"></div>
+      </div>
+      <div class="event-price">
+         <div class="tickets-left">0 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9589813" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-10-19" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-10-19T19:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Wed</span><span class="date-stamp-month-dd">Oct 19</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/vnv-nation-tickets-vnv-nation-denver-bluebird-theater-10-19-2016/event/9589813/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9589813" data-index="46" data-tracking="" title="VNV Nation Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">VNV Nation Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">7:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">0 tickets left</div>
+         <div class="component-event-favorites-star event-9589813"></div>
+      </div>
+      <div class="event-price">
+         <div class="tickets-left">0 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9597358" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-10-24" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-10-24T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Mon</span><span class="date-stamp-month-dd">Oct 24</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/margo-price-tickets-margo-price-denver-bluebird-theater-10-24-2016/event/9597358/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9597358" data-index="47" data-tracking="" title="Margo Price Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Margo Price Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">20 tickets left</div>
+         <div class="component-event-favorites-star event-9597358"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$37</div>
+         <div class="tickets-left">20 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9575976" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-10-26" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-10-26T20:00:00-0600">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Wed</span><span class="date-stamp-month-dd">Oct 26</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/the-boxer-rebellion-tickets-the-boxer-rebellion-denver-bluebird-theater-10-26-2016/event/9575976/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9575976" data-index="48" data-tracking="" title="The Boxer Rebellion Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">The Boxer Rebellion Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">47 tickets left</div>
+         <div class="component-event-favorites-star event-9575976"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$38</div>
+         <div class="tickets-left">47 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9551472" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-11-22" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-11-22T20:00:00-0700">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Tue</span><span class="date-stamp-month-dd">Nov 22</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/dark-tranquillity-tickets-dark-tranquillity-with-swallow-the-sun-denver-bluebird-theater-11-22-2016/event/9551472/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9551472" data-index="49" data-tracking="" title="Dark Tranquillity with Swallow the Sun, Enforcer and Starkill Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Dark Tranquillity with Swallow the Sun, Enforcer and Starkill Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">25 tickets left</div>
+         <div class="component-event-favorites-star event-9551472"></div>
+      </div>
+      <div class="event-price">
+         <span class="from">from</span> 
+         <div class="price">$55</div>
+         <div class="tickets-left">25 tickets left</div>
+      </div>
+   </div>
+   <div class="event event-9597569" itemscope="" itemtype="http://schema.org/Event">
+      <div class="event-date">
+         <meta content="2016-12-04" itemprop="startDate">
+         <meta itemprop="doorTime" content="2016-12-04T20:00:00-0700">
+         <div class="event-date-block">
+            <div class="date-stamp-standard date-container "><span class="date-stamp-standard"><span class="date-divider-top"></span><span class="date-stamp-day " lang="en-us"> Sun</span><span class="date-stamp-month-dd">Dec 4</span></span></div>
+         </div>
+      </div>
+      <div class="event-info">
+         <a href="//www.stubhub.com/sara-watkins-tickets-sara-watkins-denver-bluebird-theater-12-4-2016/event/9597569/" class="event-link a-click-event-link " itemprop="url" data-currency="USD" data-eventid="9597569" data-index="50" data-tracking="" title="Sara Watkins Tickets (16+ Event)" rel="external"><span itemprop="name" class="event-title dotdotdot" style="word-wrap: break-word;">Sara Watkins Tickets (16+ Event)</span></a>
+         <div class="event-details dotdotdot" style="word-wrap: break-word;"><span class="time">8:00 pm</span>&nbsp;<span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><span itemprop="name">Bluebird Theater  - Denver</span>,&nbsp;<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Denver</span>, <span itemprop="addressRegion"> CO</span></span></span></div>
+         <div class="tickets-left">0 tickets left</div>
+         <div class="component-event-favorites-star event-9597569"></div>
+      </div>
+      <div class="event-price">
+         <div class="tickets-left">0 tickets left</div>
+      </div>
+   </div>

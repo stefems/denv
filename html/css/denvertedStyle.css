@@ -1,0 +1,25 @@
+#homeIcon {
+	transition: .5s;
+}
+#filterIcon {
+	transition: .08s;
+}
+#IconDiv {
+	transition: .5s;
+	position: fixed;
+	width: calc((100vw / 13 ) - 1vw); 
+
+}
+
+.month {
+  text-align: center;
+  font-size: 4em;
+  text-decoration: underline;
+}
+
+.event {
+  
+}
+#july {
+  
+}
