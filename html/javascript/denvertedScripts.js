@@ -14,3 +14,10 @@ function unanimateHome() {
 	//get the filter <i> and reset the class
 	document.getElementById("homeIcon").className = "fa fa-arrow-down fa-5x";
 }
+/*
+for(var i=0;i<jArray.length;i++){
+alert(jArray[i]);
+}*/
+
+alert(jsonArrays);
+

@@ -1,25 +1,64 @@
 #homeIcon {
 	transition: .5s;
+	color: black;
+}
+#homeIcon:hover {
+	transition: .5s;
+	cursor: pointer;
+	color: black;
 }
 #filterIcon {
 	transition: .08s;
 }
-#IconDiv {
-	transition: .5s;
+
+#homeDiv {
+	float: left;
+}
+#filterDiv {
+	float: right;
+}
+
+
+.iconDiv {
+	/*border-style: solid;
+	border-color: blue;*/
+	padding-left: 1em;
+	padding-right: 1em;
+	margin: 0;
+	z-index: 1;
+}
+.middleDiv {
+	/*border-style: solid;
+	border-color: green;*/
+	margin: 0;
+	overflow: hidden;
+}
+
+
+.contentDiv {
+	/*border-style: solid;
+	border-color: red;*/
+	overflow: hidden;
+	font-size: 3em;
+	position: relative;
+	padding-top: 2em;
+	padding-left: 2em;
+	z-index: -1;
+}
+
+.topRow {
+	width: 100%;
+	/*border-style: solid;
+	border-color: yellow;*/
 	position: fixed;
-	width: calc((100vw / 13 ) - 1vw); 
+	background-color: white;
 
 }
 
 .month {
-  text-align: center;
-  font-size: 4em;
-  text-decoration: underline;
+
 }
 
 .event {
-  
-}
-#july {
   
 }
