@@ -14,6 +14,3 @@ function unanimateHome() {
 	//get the filter <i> and reset the class
 	document.getElementById("homeIcon").className = "fa fa-arrow-down fa-5x";
 }
-
-alert(output[9]);
-alert(output2[9]);
