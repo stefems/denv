@@ -12,36 +12,39 @@
 			//Connecting to DB
 			$db = mysqli_connect('localhost','web','webpleblehcar04#','denverted_events') or die('Error connecting to MySQL server.');
 			//Composing test query
-			$query = "SELECT * FROM event_table0";
+			$query = "SELECT eventOpeners FROM event_table0";
 			mysqli_query($db, $query) or die('Error querying database.');
 			//Composing query to show all results
 			$result = mysqli_query($db, $query);
+			/*$jsonTitles = array();
+			$jsonTimes = array();
+			$jsonAges = array();*/
+			$jsonOpeners = array();
+			/*
+			$jsonVenues = array();
+			$jsonLinks = array();
+			$jsonCosts = array();
+			$jsonCos = array();
+			$jsonGenres = array();*/
 			if (mysqli_num_rows($result) > 0) {
-				$jsonTitles = array();
-				$jsonTimes = array();
-				$jsonAges = array();
-				$jsonOpeners = array();
-				$jsonVenues = array();
-				$jsonLinks = array();
-				$jsonCosts = array();
-				$jsonCos = array();
-				$jsonGenres = array();					
-				while ($row = mysqli_fetch_array($result)) {
-					$jsonTitles[] = $row[0];
-					$jsonTitles[] = $row[3];
-					$jsonTimes[] = $row[1];
-					$jsonAges[] = $row[2];
-					$jsonOpeners[] = $row[4];
-					$jsonVenues[] = $row[5];
-					$jsonLinks[] = $row[6];
-					$jsonCosts[] = $row[7];
-					$jsonCos[] = $row[8];
-					$jsonGenres[] = $row[9];
-					
+				while ($row = mysqli_fetch_array($result))
+				{
+					$jsonOpeners[] = $row[0];
+					/*$jsonTimes[] = $row[0];
+					$jsonAges[] = $row[1];
+					$jsonTitles[] = $row[2];
+					$jsonOpeners[] = $row[3];
+					$jsonVenues[] = $row[4];
+					$jsonLinks[] = $row[5];
+					$jsonCosts[] = $row[6];
+					$jsonCos[] = $row[7];
+					$jsonGenres[] = $row[8];*/
 				}
 			}
+			$result = mysqli_num_rows($result)	;
 		?>
 		<script type="text/javascript">
+			var result =  <?php echo $result;?>;
 			var eventTitles = <?php echo json_encode($jsonTitles);?>;
 			var eventTimes = <?php echo json_encode($jsonTimes);?>;
 			var eventAges = <?php echo json_encode($jsonAges);?>;
@@ -53,7 +56,7 @@
 			//List of event objects
 			var eventList = [];
 			//for all of the items in the output array
-			for (i = 0; i < eventTitles.length; i++)
+			/*for (i = 0; i < eventTitles.length; i++)
 			{
 				//create an event object and send it to the array at the same index
 				eventList[i] = {
@@ -66,9 +69,9 @@
 					cost: eventCosts[i],
 					genre: eventGenres[i]
 				};
-			}
-			alert(eventList[0].title);
-
+			}*/
+			//alert(eventList[0].title);
+			alert(result);
 		</script>
 	</head>
 
