@@ -42,7 +42,7 @@
 	font-size: 3em;
 	position: relative;
 	padding-top: 2em;
-	padding-left: 2em;
+	/*padding-left: 2em;*/
 	z-index: -1;
 }
 
