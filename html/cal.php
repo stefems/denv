@@ -55,12 +55,13 @@
 				//create an event object and send it to the array at the same index
 				eventList[i] = {
 					title: eventTitle[i],
-					time: eventTime[i],
+					time: JSON.stringify(eventTime[i]),
 					age: ageLimit[i],
 					openers: eventOpeners[i],
 					venue: eventVenue[i],
 					link: eventLink[i],
-					cost: eventCost[i]
+					cost: eventCost[i],
+					test: "Test!"
 				};
 			}
 			//How to access a title from the array

@@ -17,7 +17,11 @@
 #filterDiv {
 	float: right;
 }
-
+.eventTopDiv {
+	display: inline-block;
+	white-space:nowrap;
+	width: 100%;
+}
 
 .iconDiv {
 	/*border-style: solid;
