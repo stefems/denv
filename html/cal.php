@@ -68,7 +68,7 @@
 			//alert(eventList[0].title);
 		</script>
 	</head>
-<body>
+<body onscroll="dateCheck()">
 	<!--Static Home and Filter Icon/Buttons -->
 	<!-- TODO: Add on click because mobile can't hover -->
 	<div class="topRow">
@@ -81,8 +81,7 @@
 			<i id="filterIcon" class="fa fa-sliders fa-5x"   aria-hidden="true" onmouseover="animateFilter()" onmouseout="unanimateFilter()"></i>
 		</div>
 		<!-- Month DIV-->
-		<div class="middleDiv" id="monthDiv">
-			Month
+		<div class="middleDiv" id="monthHeader">
 		</div>
 		
 	</div>

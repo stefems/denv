@@ -16,12 +16,54 @@ function unanimateHome() {
 }
 
 document.body.onload = loadEvents;
+var monthDefault;
+function dateCheck() {
+	//get the month label elements
+	var monthLabels = document.getElementsByClassName("monthLabel");
+	//get the month header rect
+	var monthHeader = document.getElementById("monthHeader")
+	var monthHeaderRect = monthHeader.getBoundingClientRect();
+	var dateReset = false;
+	//for all month labels
+	for (i = 0; i < monthLabels.length; i++) {
+		//if the label.top is less than the header.bottom, set the header date
+		if (monthLabels[i].getBoundingClientRect().top < monthHeaderRect.bottom) {
+			monthHeader.innerHTML = monthLabels[i].innerHTML;
+			dateReset = true;
+		}
+	}
+	if (dateReset === false) {
+		monthHeader.innerHTML = monthDefault;
+	}
+					 
+}
 
-/* DONT FORGET THAT THE MONTH CREATION NEEDS TO FIT SOMEHOW! */
+function loadEvents () {
+	//use the first element in the list to get the first month
+	var firstMonth = getMonthName(eventList[0]);
+	monthDefault = firstMonth;
+	//set the date header
+	document.getElementById("monthHeader").innerHTML = firstMonth;
+	//we will compare the months with the MM value
+	var currentMonth = eventList[0].time.charAt(6) + eventList[0].time.charAt(7);
+	//get the document
+	var contentDiv = document.getElementById("contentSection");
 
-function loadEvents () { 
 	//for each object in eventList
 	for (i = 0; i < eventList.length; i++) {
+		
+		//get the current element month MM
+		var thisMonth = eventList[i].time.charAt(6) + eventList[i].time.charAt(7);
+		//if the current element month is different from the current month,
+		//	create a month element for that month
+		if (currentMonth !== thisMonth) {
+			currentMonth = thisMonth;
+			var monthDiv = document.createElement("div");
+			var monthDivText = document.createTextNode(getMonthName(eventList[i]));
+			monthDiv.className = "monthLabel";
+			monthDiv.appendChild(monthDivText);
+			contentDiv.appendChild(monthDiv);
+		}
 		//Creating the elements
 		var dateMonth = eventList[i].time;
 		var dateMonth = dateMonth.charAt(6) + dateMonth.charAt(7);
@@ -51,8 +93,19 @@ function loadEvents () {
 		
 
 		// add the newly created element and its content into the DOM 
-		var contentDiv = document.getElementById("contentSection"); 
+		
 		contentDiv.appendChild(topDiv); 
 	}
 	
+}
+
+function getMonthName(eventObject) {
+	//get the time from the first event
+	var month = eventObject.time;
+	//get the month number and match it to the array index
+	month = Number(month.charAt(6) + month.charAt(7)) - 1;
+	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "June",
+  "July", "Aug", "Sept", "Oct", "Nov", "Dec"];
+	//assign month the string name value
+	return monthNames[month];
 }
