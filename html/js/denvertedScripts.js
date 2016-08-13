@@ -14,7 +14,6 @@ function unanimateHome() {
 	//get the filter <i> and reset the class
 	document.getElementById("homeIcon").className = "fa fa-arrow-down fa-5x";
 }
-
 document.body.onload = loadEvents;
 var monthDefault;
 function dateCheck() {
@@ -39,6 +38,8 @@ function dateCheck() {
 }
 
 function loadEvents () {
+	//get the width of the screen/device
+	var screenWidth = screen.width;
 	//use the first element in the list to get the first month
 	var firstMonth = getMonthName(eventList[0]);
 	monthDefault = firstMonth;
@@ -65,26 +66,36 @@ function loadEvents () {
 			contentDiv.appendChild(monthDiv);
 		}
 		//Creating the elements
-		var dateMonth = eventList[i].time;
-		var dateMonth = dateMonth.charAt(6) + dateMonth.charAt(7);
+		var dateDay = eventList[i].time;
+		var dateDay = dateDay.charAt(9) + dateDay.charAt(10);
+		dateDay = Number(dateDay);
 		var topDiv = document.createElement("div");
 		var genreDiv = document.createElement("div");
 		var titleDiv = document.createElement("div");
 		var dateDiv = document.createElement("div");
 		var titleText = document.createTextNode(eventList[i].title);
-		var dateText = document.createTextNode(dateMonth);
+		var dateText = document.createTextNode(dateDay);
 		
 		var genreImg = document.createElement("img");
 		genreImg.src = "images/genreIcons/placeholderforgenreimage.png";
 		//shrink the image size down, yo
 		genreImg.style.height = '2em';
 		genreImg.style.width = '2em';
-		//Giving the elements their classes
-		topDiv.className = "eventTopDiv";
-		
+		//Giving the elements their classes and values
+		topDiv.className = "eventDiv";
+		genreDiv.className = "eventSubDiv";
+		titleDiv.className = "eventSubDiv";
+		dateDiv.className = "eventSubDiv";
+		genreDiv.style.width = "20%";
+		dateDiv.style.width = "20%";
+		titleDiv.style.width = "60%";
 		//Placing the inner elements into the divs
 		dateDiv.appendChild(dateText);
 		titleDiv.appendChild(titleText);
+		//while the text div is larger than the title div, decrease the font size
+		/*while (titleText.style.width > titleDiv.style.width) {
+			titleText.style.fontSize = (Number(titleText.style.fontSize) - 1) + "px";
+		}*/
 		genreDiv.appendChild(genreImg);
 		//placing the divs into the top div
 		topDiv.appendChild(genreDiv);

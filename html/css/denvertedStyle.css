@@ -10,17 +10,11 @@
 #filterIcon {
 	transition: .08s;
 }
-
 #homeDiv {
 	float: left;
 }
 #filterDiv {
 	float: right;
-}
-.eventTopDiv {
-	display: inline-block;
-	white-space:nowrap;
-	width: 100%;
 }
 
 .iconDiv {
@@ -31,18 +25,18 @@
 	margin: 0;
 	z-index: 1;
 }
-.middleDiv {
+.monthHeaderDiv {
 	/*border-style: solid;
 	border-color: green;*/
 	margin: 0;
 	overflow: hidden;
 }
 
-
 .contentDiv {
 	/*border-style: solid;
 	border-color: red;*/
-	overflow: hidden;
+	overflow-y: hidden;
+	overflow-x: auto;
 	font-size: 3em;
 	position: relative;
 	padding-top: 2em;
@@ -50,7 +44,7 @@
 	z-index: -1;
 }
 
-.topRow {
+.headerRow {
 	width: 100%;
 	/*border-style: solid;
 	border-color: yellow;*/
@@ -60,13 +54,19 @@
 }
 
 .monthLabel {
-	
+	float: left;
 }
 
-.monthHeader {
-
+.eventDiv {
+	overflow-y: hidden;
+	overflow-x: auto;
+	float: left;
+	width: 100%;
+	background-color: grey;
+	max-height: 15%;
 }
 
-.event {
-  
+.eventSubDiv {
+	float: left;
+	text-align: center;
 }

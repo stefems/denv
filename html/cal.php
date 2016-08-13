@@ -61,17 +61,15 @@
 					venue: eventVenue[i],
 					link: eventLink[i],
 					cost: eventCost[i],
-					test: "Test!"
 				};
 			}
-			//How to access a title from the array
-			//alert(eventList[0].title);
 		</script>
 	</head>
 <body onscroll="dateCheck()">
-	<!--Static Home and Filter Icon/Buttons -->
-	<!-- TODO: Add on click because mobile can't hover -->
-	<div class="topRow">
+	<!---------------------------------------------------->
+	<!--HEADER-------------------------------------------->
+	<!---------------------------------------------------->
+	<div class="headerRow">
 		<!-- HOME ICON-->
 		<div class="iconDiv" id="homeDiv">
 			<a href="index.php"><i id="homeIcon" class="fa fa-arrow-down fa-5x" aria-hidden="true" onmouseover="animateHome()" onmouseout="unanimateHome()" ></i></a>
@@ -81,18 +79,15 @@
 			<i id="filterIcon" class="fa fa-sliders fa-5x"   aria-hidden="true" onmouseover="animateFilter()" onmouseout="unanimateFilter()"></i>
 		</div>
 		<!-- Month DIV-->
-		<div class="middleDiv" id="monthHeader">
+		<div class="monthHeaderDiv" id="monthHeader">
 		</div>
-		
 	</div>
-	<!-- Content Section-->
+	<!---------------------------------------------------->
+	<!--EVENTS-------------------------------------------->
+	<!---------------------------------------------------->
 	<div id="contentSection" class="contentDiv">
-		<!--MONTH
-		TODO: Fixed changes for the upcoming month-->
-		<!--EVENT -->
-		
 	</div>
-	<!---------------------------------------->
+	
 
 </body>
 
