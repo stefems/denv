@@ -15,6 +15,7 @@ function unanimateHome() {
 	document.getElementById("homeIcon").className = "fa fa-arrow-down fa-5x";
 }
 document.body.onload = loadEvents;
+
 var monthDefault;
 function dateCheck() {
 	//get the month label elements
@@ -35,6 +36,28 @@ function dateCheck() {
 		monthHeader.innerHTML = monthDefault;
 	}
 					 
+}
+
+function resizeEventTitles() {
+	//go through all of the events and determine compare the scroll/client
+	var eventElements = document.getElementsByClassName("eventTitleDiv");
+	for (i = 0; i < eventElements.length; i++) {
+		while (eventElements[i].scrollWidth > eventElements[i].clientWidth) {
+			var style = window.getComputedStyle(eventElements[i], null).getPropertyValue('font-size');
+			var fontSize = parseFloat(style);
+			eventElements[i].style.fontSize = (fontSize - 1) + 'px';
+		}
+		
+		
+		/*
+		if (eventElements[i].scrollWidth > eventElements[i].clientWidth) {
+			eventElements[i].style.fontsize = Number(eventElements[i].style.fontsize) - 5 + "px";
+		}
+		*/	
+		
+		
+		eventElements[i].style.overflow = "hidden";
+	}
 }
 
 function loadEvents () {
@@ -84,7 +107,7 @@ function loadEvents () {
 		//Giving the elements their classes and values
 		topDiv.className = "eventDiv";
 		genreDiv.className = "eventSubDiv";
-		titleDiv.className = "eventSubDiv";
+		titleDiv.className = "eventTitleDiv";
 		dateDiv.className = "eventSubDiv";
 		genreDiv.style.width = "20%";
 		dateDiv.style.width = "20%";
@@ -92,21 +115,16 @@ function loadEvents () {
 		//Placing the inner elements into the divs
 		dateDiv.appendChild(dateText);
 		titleDiv.appendChild(titleText);
-		//while the text div is larger than the title div, decrease the font size
-		/*while (titleText.style.width > titleDiv.style.width) {
-			titleText.style.fontSize = (Number(titleText.style.fontSize) - 1) + "px";
-		}*/
 		genreDiv.appendChild(genreImg);
 		//placing the divs into the top div
 		topDiv.appendChild(genreDiv);
 		topDiv.appendChild(titleDiv);
 		topDiv.appendChild(dateDiv);
-		
-
 		// add the newly created element and its content into the DOM 
 		
 		contentDiv.appendChild(topDiv); 
 	}
+	resizeEventTitles();
 	
 }
 
@@ -120,3 +138,4 @@ function getMonthName(eventObject) {
 	//assign month the string name value
 	return monthNames[month];
 }
+

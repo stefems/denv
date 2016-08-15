@@ -68,5 +68,14 @@
 
 .eventSubDiv {
 	float: left;
-	text-align: center;
+	text-align: left;
+	overflow: hidden;
+	white-space: nowrap;
+}
+.eventTitleDiv {
+	float: left;
+	text-align: left;
+	/*Can this be changed to hidden?*/
+	overflow: scroll;
+	white-space: nowrap;
 }
